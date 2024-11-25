@@ -7,7 +7,7 @@
   "dependencies": {
     "@microsoft/tsdoc": "workspace:*",
     "colors": "~1.4.0",
-    "typescript": "~5.4.2"
+    "typescript": "~5.6.3"
   },
   "devDependencies": {
     "@rushstack/heft-node-rig": "~2.6.11",

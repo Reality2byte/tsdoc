@@ -12,7 +12,7 @@
   "dependencies": {
     "@microsoft/tsdoc": "workspace:*",
     "@types/react-dom": "16.9.3",
-    "@types/react": "16.9.11",
+    "@types/react": "16.14.62",
     "monaco-editor": "~0.38.0",
     "promise": "~8.0.3",
     "tslib": "~2.5.3"
